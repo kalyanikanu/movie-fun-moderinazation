@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.moviefun.movies;
+package org.superbiz.moviefun.movies;
 
 import org.springframework.web.bind.annotation.*;
 

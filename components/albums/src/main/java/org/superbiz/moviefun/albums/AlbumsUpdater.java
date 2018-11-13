@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.moviefun.albums;
+package org.superbiz.moviefun.albums;
 
 import com.fasterxml.jackson.databind.ObjectReader;
 import com.fasterxml.jackson.dataformat.csv.CsvMapper;
@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 import org.superbiz.moviefun.blobstore.Blob;
 import org.superbiz.moviefun.blobstore.BlobStore;
-import org.superbiz.moviefun.moviefun.CsvUtils;
+import org.superbiz.moviefun.CsvUtils;
 
 
 import java.io.IOException;

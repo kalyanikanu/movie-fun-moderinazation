@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.moviefun;
+package org.superbiz.moviefun;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

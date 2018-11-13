@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.moviefun;
+package org.superbiz.moviefun;
 
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.BasicAWSCredentials;
@@ -12,7 +12,6 @@ import org.superbiz.moviefun.blobstore.BlobStore;
 import org.superbiz.moviefun.blobstore.S3Store;
 import org.superbiz.moviefun.cloudfoundry.ServiceCredentials;
 import org.superbiz.moviefun.moviesapi.MovieServlet;
-import org.superbiz.moviefun.moviesapi.MoviesClient;
 
 
 @SpringBootApplication(scanBasePackages = {"org.superbiz.moviefun"})

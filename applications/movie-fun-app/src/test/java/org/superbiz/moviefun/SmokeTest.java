@@ -1,4 +1,4 @@
-package org.superbiz.moviefun.moviefun;
+package org.superbiz.moviefun;
 
 import org.junit.Test;
 import org.springframework.web.client.RestTemplate;
